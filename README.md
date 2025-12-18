@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there 👋
 I'm Marcel, fresh graduate of Computer Science and Econometrics and an aspiring data analyst.
 
 My main tech stack is in Python, SQL, RStudio. I also know HTML, CSS (Tailwind framework) and PHP (mainly Laravel framework).
