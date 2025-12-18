@@ -5,6 +5,7 @@ My main tech stack is in Python, SQL, RStudio. I also know HTML, CSS (Tailwind f
 
 My projects from university are pinned down below, but my favorite is [Analiza_Sentymentu_NRC](https://github.com/Tuzuf/Analiza_Sentymentu_NRC).
 
+You can reach me using [LinkedIn](https://www.linkedin.com/in/marcel-bilski-ba57b8216/) or by messaging me on email: marcel.bilski.mb@gmail.com
 <!--
 **Tuzuf/Tuzuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
