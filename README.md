@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there!
+I'm Marcel, fresh graduate of Computer Science and Econometrics and an aspiring data analyst.
+
+My main tech stack is in Python, SQL, RStudio. I also know HTML, CSS (Tailwind framework) and PHP (mainly Laravel framework).
+
+I've my projects from university pinned down, but my favorite is [Analiza_Sentymentu_NRC](https://github.com/Tuzuf/Analiza_Sentymentu_NRC).
 
 <!--
 **Tuzuf/Tuzuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
